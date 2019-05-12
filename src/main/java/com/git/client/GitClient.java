@@ -15,5 +15,6 @@ public class GitClient {
         System.out.println("created a local branch..");
 
         System.out.println("created a dev branch.. and dev branch changes..");
+        System.out.println("local branch changes to create a conflict with dev-branch");
     }
 }
